@@ -1,6 +1,6 @@
 # Battleships
 
-### Dinamiko igre:
+### Dynamics:
 * guess the enemy ship's position and sink them.
 
 ### Mechanics:
